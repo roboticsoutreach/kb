@@ -14,4 +14,4 @@ An EGM can be called for by either members of the society or the committee in or
 
 An AGM is held each year to elect new committee members (see [The Committee](https://sro.netlify.com/society/committee/)). Any full member of the society may stand for election. Candidates for the committee should make themselves known in advance of the election, however, they may withdraw at any time.
 
-Votes should be cast anonymously using ballot papers based upon the [LaTex template](https://github.com/s-r-o/ballot-papers). All full members of the society may vote in elections. Any member may also request a recount of votes. These meetings are required to be held atleast every 15 months in accordance with the constitution.
+Votes should be cast anonymously using ballot papers based upon the [LaTex template](https://github.com/s-r-o/ballot-papers). All full members of the society may vote in elections. Any member may also request a recount of votes. These meetings are required to be held at least every 15 months in accordance with the constitution.
