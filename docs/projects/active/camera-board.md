@@ -1,12 +1,8 @@
 ---
-title: Smallpeice 2016
+title: Camera Board
 ---
 
-Smallpeice 2016 was a summer school held in August 2016.
-
-The game was Formula One Ricin.
-
-SR v3 kit was modified and used.
+The Camera Board is a project that aims to find a hardware replacement for webcams.
 
 !!! warning "Page under construction"
     Barry the Bee has stolen the content from this page and we've yet to put it back!
