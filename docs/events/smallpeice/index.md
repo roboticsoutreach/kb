@@ -2,9 +2,15 @@
 title: Overview
 ---
 
-Smallpeice is an annual Summer School that we hold.
+Smallpeice is an annual Summer School that we hold in collaboration with the [Smallpeice Trust](https://www.smallpeicetrust.org.uk/). During this weeklong event, normally held in early August, SRO (operating under the Sourcebots brand) are responsible for the event. Staff from the Smallpeice trust ensure the welfare of students outside of the working day.
 
-!!! warning "Page under construction"
-    Barry the Bee has stolen the content from this page and we've yet to put it back!
+SRO has a number of responsibilities during the event, including:
 
-    Yeah, this page hasn't been written yet. Sorry.
+- Ensuring the safety of students both in labs and during the event
+- Planning for the week, including preparation the weekend before, the course itself, and tear down the following weekend
+- Creating a game that is both challenging and achievable, and which offers a fair but competitive environment
+- Providing technical advice to teams where neccessary
+- Providing teams with a workspace, tools, and kit to build their robot
+- Producing material (usually in the form of lab sessions) which will teach teams the skills that they need to be successful in the competition.
+
+The aim is to have teams leave the competition having had fun, but also having developed skills that will help them pursue degrees and careers in STEM fields.
