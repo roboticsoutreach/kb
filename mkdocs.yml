@@ -1,7 +1,7 @@
 site_name: 'SRO Knowledgebase'
 site_description: 'SRO Knowledgebase and documentation'
 site_author: 'Southampton Robotics Outreach'
-site_url: 'https://sro.netlify.com'
+site_url: 'https://kb.roboticsoutreach.org'
 
 repo_name: 's-r-o/kb'
 repo_url: 'https://github.com/s-r-o/kb'
