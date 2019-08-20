@@ -8,11 +8,11 @@ We have a [Facebook Page][fb-page], [Facebook Group][fb-group] and [GitHub Organ
 
 [fb-page]: https://facebook.com/SROSoton
 [fb-group]: https://www.facebook.com/groups/126854750821510/
-[gh]: https://github.com/s-r-o
+[gh]: https://github.com/roboticsoutreach
 
 ## Slack
 
-We communicate a lot of more casual things in our [Slack Workspace](https://sourcebots.slack.com/).
+We communicate a lot of more casual things in our [Slack Workspace](https://roboticsoutreach.slack.com/).
 
 ## Mailing List
 
