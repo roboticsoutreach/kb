@@ -1,6 +1,12 @@
 backend:
   name: git-gateway
-media_folder: "img"
-public_folder: "img"
-
-
+media_folder: "docs/img"
+public_folder: "docs/img"
+collections:
+  - "pages"
+    label: "Pages"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
