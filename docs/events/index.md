@@ -1,6 +1,7 @@
-# Events
+# Events Overview
 
-!!! warning "Page under construction"
-    Barry the Bee has stolen the content from this page and we've yet to put it back!
+Throughout the year, we run lots of smaller events and up to twice a year, some large ones.
 
-    Yeah, this page hasn't been written yet. Sorry.
+This section will mostly focus on our larger events for now.
+
+Our major event is the **Computing, Electronics and Robotics Summer School**, otherwise known as Smallpeice.
