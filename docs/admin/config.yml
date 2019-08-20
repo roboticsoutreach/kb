@@ -3,7 +3,7 @@ backend:
 media_folder: "docs/img"
 public_folder: "docs/img"
 collections:
-  - "pages"
+  - "pages":
     label: "Pages"
     folder: "docs"
     create: true
