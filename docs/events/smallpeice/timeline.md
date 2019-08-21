@@ -58,4 +58,4 @@ Proposed dates are usually suggested by Smallpeice after discussions with the un
 
 ## Attributions
 
-This page was written based of the work of [T Ward](https://github.com/sourcebots/smallpeice-runbook), but moved here to make it more accessible. Additional information has since been added to supplement this work.
+This page was written based of the work of [T Ward](https://github.com/sourcebots/smallpeice-runbook), but moved here to make it more accessible. A [compiled version of his work](/events/smallpeice/docs/runbook2018.pdf) is available. Additional information has since been added to supplement this work.
