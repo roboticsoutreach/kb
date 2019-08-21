@@ -53,8 +53,39 @@ Proposed dates are usually suggested by Smallpeice after discussions with the un
 - *Book Labs*
 - *Book SUSU*
 - *Book rooms for logistics*
+- *Confirm dates with Smallpeice*
 
 ### Call for Volunteers
+
+After the dates have been confirmed, we can open volunteer sign-ups. This is usually done as an online form (Google Forms).
+
+There are various bits of information that we need to get from volunteers, many of which are sensitive and will need to be handled in accordance with GDPR.
+
+The following is the minimum data that we need:
+
+- Email Address
+- Name (inc. Surname)
+- Pronouns
+- Date of Birth (No under 18s)
+- Volunteer Availability
+    - Usually done as tickboxes: Morning, Afternoon, Evening for the weekends before and after, as well as the week of the summer school.
+- Do they wish to help before the main event?
+- Parking?
+- T-shirt size
+    - Include No T-Shirt
+- Dietary Requirements
+- Accomodation requirements
+- DBS Checked? (Not Required)
+- Formal Meal attendance
+- Data Protection Statement
+- Acknowledgement of Payment (or lack thereof)
+
+It is also recommended to collect:
+
+- Volunteer Meal Attendance
+
+
+It is important to get all volunteers to signup, so that we have the right names to give to Smallpeice for food.
 
 ## Attributions
 
