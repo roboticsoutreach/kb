@@ -140,6 +140,30 @@ When designing the game, it is worth reading the [Game Design Desiderata](/event
 - *Finalise Rules into formal document*
 - *Prepare information for Rules Q&A*
 
+#### Prepare Student Packs
+
+**Timeline Unknown**
+
+At the introductory talk each student is given a pack. These bags include printouts of the rules and a map of campus, and prospectuses.
+
+- *Print Rules*
+- *Pack promotional items e.g pens*
+- *Acquire bags*
+- *Print maps of campus* (mark key areas?)
+- *Acquire Prospectuses*
+- *Pack the student packs*
+
+#### Risk Assessments
+
+**Timeline Unknown**
+
+It is important to create risk assessments for both students and volunteers at the event.
+
+Past risk assessments can be found [here](https://github.com/roboticsoutreach/risk-assessments) albeit not in a great format.
+
+In SP2019, the risk assessments were handled by ECS, working with us to ensure that any risks from the activities were covered.
+
+- *Create Risk Assessment*
 
 #### Student Information Packs
 
