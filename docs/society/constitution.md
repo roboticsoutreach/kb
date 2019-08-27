@@ -1,6 +1,6 @@
 # Constitution
 
-The canonical copy of our constitution can be found [on GitHub](https://github.com/s-r-o/constitution).
+The canonical copy of our constitution can be found [on GitHub](https://github.com/roboticsoutreach/constitution).
 
 A summary of the constitution can be found below.
 
@@ -208,19 +208,15 @@ The objectives of the Group, ‘the Objects’, are:
         sponsorship for the Group and maintain the accounts of the
         Group.
 
-    4.  Social Secretary. The Social Secretary shall provide social and
-        cultural pursuits for the Group’s Members on a smaller scale,
-        such as nights out.
+    4.  Marketing Director. The Marketing Director shall oversee the organisation of small outreach activities, the design, production, and distribution of promotional materials, promotion to prospective members, potential sponsors, and manage the society’s online presence.
 
-    5.  SourceBots Director. The SourceBots Director shall oversee all
-        activities executed under the “SourceBots” brand name.
+    5.  Summer School Lead. The Summer School Lead shall oversee the annual ECS Computing, Electronics and Robotics summer school, shall ensure a reasonable timeline for preparation is followed throughout the academic year, and shall ensure that tasks both for preparation and for the event itself are well planned and delegated. They shall correspond with the relevant ECS staff members, Smallpeice members, and Student Robotics members as needed. The Summer School Lead should also be available and on hand for the entire week of the summer school as the volunteer coordinator.
 
-    6.  Outreach Director. The Outreach Director shall oversee all
-        outreach activities, except those under the “SourceBots” brand.
+    6. Second Summer School Lead. The Second Summer School Lead is an optional committee position that isn’t needed to have a full committee but should be filled if possible. The Second Summer School Lead shall support the main Summer School Lead in their responsibilities.
 
-    7.  Student Robotics Liaison. The Student Robotics Liaison is
-        reponsible for co-ordination of events and communication between
-        Student Robotics, an external Charity no. 1163168 and the Group.
+    7. Technical Officer. Co-ordination of events and communication between Student Robotics, an external Charity no. 1163168 and the Group are handled as part of the role of Technical Officer. The Technical Officer shall be responsible for overseeing any kit development work the Group may carry out and is expected to work closely with the Kit Team Committee of Student Robotics.
+
+    8. Welfare Officer. The Welfare Officer shall oversee the personal welbeing of the Group’s Members, including organising small-scale social events for the Group’s Members and mediating between members where such action is necessary.
 
 3.  No one may be appointed a member of the Committee if they have been
     disqualified from becoming a member of the Committee under the
