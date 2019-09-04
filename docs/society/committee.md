@@ -2,8 +2,6 @@
 
 The SRO committee are responsible for running various aspects of the society.
 
-We like to have a casual atmosphere where everybody is involved in decisions, so as a general rule, the committee are not in charge. They are here to lead, and ensure that things happen.
-
 ## President
 
 The President shall oversee the organisation and management of the Group and the Committee as a whole; ensure the officers’ accountability to Members, the Committee, and the Students’ Union; and represent the Group to all external interests.
