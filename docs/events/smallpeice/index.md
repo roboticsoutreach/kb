@@ -1,6 +1,4 @@
----
-title: Overview
----
+# Overview
 
 Smallpeice is an annual Summer School that we hold in collaboration with the [Smallpeice Trust](https://www.smallpeicetrust.org.uk/). During this weeklong event, normally held in early August, SRO (operating under the Sourcebots brand) are responsible for the event. Staff from the Smallpeice trust ensure the welfare of students outside of the working day.
 
