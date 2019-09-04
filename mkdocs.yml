@@ -3,8 +3,8 @@ site_description: 'SRO Knowledgebase and documentation'
 site_author: 'Southampton Robotics Outreach'
 site_url: 'https://kb.roboticsoutreach.org'
 
-repo_name: 's-r-o/kb'
-repo_url: 'https://github.com/s-r-o/kb'
+repo_name: 'roboticsoutreach/kb'
+repo_url: 'https://github.com/roboticsoutreach/kb'
 
 theme:
   name: 'material'
@@ -23,11 +23,11 @@ extra:
   manifest: 'app.manifest'  
   social:
     - type: github
-      link: 'https://github.com/s-r-o'
+      link: 'https://github.com/roboticsoutreach'
     - type: facebook-square
       link: 'https://facebook.com/SROSoton'
     - type: slack
-      link: 'https://sourcebots.slack.com'
+      link: 'https://roboticsoutreach.slack.com'
   
 copyright: 'Copyright &copy; Southampton Robotics Outreach.'
 
