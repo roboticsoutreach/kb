@@ -39,9 +39,9 @@ Any major improvements that we want to make to the summer school following feedb
 
 Food, accomodation and evening activities are funded and managed by Smallpeice. The funds required to run the daytime robotics activities come from ECS. In order for ECS to allocate the required fund, a draft budget is required. This can be based on the costs for the previous year + inflation (CPI - Consumer Price Index). Additional planning may be required if changes with new costs are planned (e.g major equipment manufacture).
 
-- *TASK: Perform a rough inventory / inventory audit.*
+- *TASK: Perform a rough inventory / inventory audit*
 - *TASK: Create and submit a draft budget to ECS*
-- *TASK: ECS will confirm budget and provide cost codes.*
+- *TASK: ECS will confirm budget and provide cost codes*
 
 #### Course Definition
 
@@ -80,7 +80,7 @@ Proposed dates are usually suggested by Smallpeice after discussions with the un
 We need to ensure that the students on the course have sufficient access to the University's computing resources.
 
 - *TASK: Confirm conference accounts* (usually done by ECS)
-- *TASK: Borrow laptops.* (1 per team.)
+- *TASK: Borrow laptops* (1 per team.)
 
 #### Catering Confirmations
 
@@ -271,7 +271,7 @@ The content in this section is free to move around, as the schedule sees fit.
 
 The students attend three academic talks on topics relevant to the course. Each lecture should be an hour long and is usually given by a lecturer within ECS.
 
-- *TASK: Find lecturers for three lectures.*
+- *TASK: Find lecturers for three lectures*
 - *TASK: Ensure rooms are booked for lectures*
 
 #### Tours
@@ -301,7 +301,7 @@ The purpose of this workshop is for students to plan their mechanisms and robot 
 
 By the end of this lab, students should have marked their base on a piece of plywood, to be sent to the ECS mechanical workshop to be cut on Tuesday.
 
-- *TASK: Create / Obtain joint examples.*
+- *TASK: Create / Obtain joint examples*
 - *TASK: Write a worksheet for the mechanical lab*
 - *TASK: Organise wood to be cut with mechanical workshop*
 
@@ -317,7 +317,7 @@ It is optional as some students may have been taught Python already. It is worth
 
 This lab teaches the subset of Python specific to our Robot API. It usually uses a simulator of some kind.
 
-- *TASK: Setup the Simulator for this years game.*
+- *TASK: Setup the Simulator for this years game*
 - *TASK: Distribute simulator*
 
 ##### Electronics Workshop
@@ -326,8 +326,8 @@ This workshop guides students through some basic principles of Electronics and b
 
 - *TASK: Update Electronics Workshop Activities*
 - *TASK: Purchase components for electronics workshop*
-- *TASK: Confirm with ECS Labs that we can use any required components.*
-- *TASK: Print Electronics Workshop Handouts.*
+- *TASK: Confirm with ECS Labs that we can use any required components*
+- *TASK: Print Electronics Workshop Handouts*
 - *TASK: Pack components for electronics workshop*
 
 ### Wednesday
@@ -366,7 +366,7 @@ The Cube will need to be prepared for the competition, which will take the major
 - *TASK: Hire any materials needed for the arena (Scaff / Truss)*
 - *TASK: Book Tables and Chairs from SUSU*
 - *TASK: Book tech from SUSU*
-- *TASK: Obtain screens for the arena.*
+- *TASK: Obtain screens for the arena*
 - *TASK: Plan arena lighting*
 - *TASK: Print arena markers (if using vision)*
 - *TASK: Print signage for Cube*
