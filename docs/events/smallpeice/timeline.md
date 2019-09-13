@@ -20,8 +20,8 @@ At this stage, we need to work out the organisation and details of the course so
 
 The key leads in each organisation need to be identified. SRO needs a point of contactP to manage discussions with ECS and keep track of tasks. ECS need to select an academic who will be in charge of the course from their end.
 
-- *ECS to select academic lead*
-- *SRO select primary organisational contact*
+- *TASK: ECS to select academic lead*
+- *TASK: SRO select primary organisational contact*
     - SRO usually have a team of people working on organising the summer school, but the University likes to have a name on their list.
 
 #### Improvements
@@ -30,8 +30,8 @@ The key leads in each organisation need to be identified. SRO needs a point of c
 
 Any major improvements that we want to make to the summer school following feedback from the previous year need to be identified.
 
-- *Review Retro from previous year*
-- *Review feedback from Smallpeice*
+- *TASK: Review Retro from previous year*
+- *TASK: Review feedback from Smallpeice*
 
 #### Budget Acquisition
 
@@ -39,9 +39,9 @@ Any major improvements that we want to make to the summer school following feedb
 
 Food, accomodation and evening activities are funded and managed by Smallpeice. The funds required to run the daytime robotics activities come from ECS. In order for ECS to allocate the required fund, a draft budget is required. This can be based on the costs for the previous year + inflation (CPI - Consumer Price Index). Additional planning may be required if changes with new costs are planned (e.g major equipment manufacture).
 
-- *Perform a rough inventory / inventory audit.*
-- *Create and submit a draft budget to ECS*
-- *ECS will confirm budget and provide cost codes.*
+- *TASK: Perform a rough inventory / inventory audit.*
+- *TASK: Create and submit a draft budget to ECS*
+- *TASK: ECS will confirm budget and provide cost codes.*
 
 #### Course Definition
 
@@ -51,7 +51,7 @@ The details of the course need to be confirmed between us, ECS and Smallpeice. I
 
 At the time of writing, the course description from the previous year could not be found.
 
-- *Confirm the course definition*
+- *TASK: Confirm the course definition*
 
 #### Date Confirmation
 
@@ -64,10 +64,10 @@ Proposed dates are usually suggested by Smallpeice after discussions with the un
 - Bar 2 and other spaces in B42
 - (Ideally) Large space near our primary storage - currently B53 / 4025
 
-- *Book Labs*
-- *Book SUSU*
-- *Book rooms for logistics*
-- *Confirm dates with Smallpeice*
+- *TASK: Book Labs*
+- *TASK: Book SUSU*
+- *TASK: Book rooms for logistics*
+- *TASK: Confirm dates with Smallpeice*
 
 ### Later Stage Planning
 
@@ -79,16 +79,16 @@ Proposed dates are usually suggested by Smallpeice after discussions with the un
 
 We need to ensure that the students on the course have sufficient access to the University's computing resources.
 
-- *Confirm conference accounts* (usually done by ECS)
-- *Borrow laptops.* (1 per team.)
+- *TASK: Confirm conference accounts* (usually done by ECS)
+- *TASK: Borrow laptops.* (1 per team.)
 
 #### Catering Confirmations
 
 Whilst SRO do not handle most of the catering, it is important for us to check that it has been booked. We do need to book any breaks taking place in SUSU though, as this cannot be done though Hospitality.
 
-- *Confirm break catering*
-- *Confirm meal catering*
-- *Book breaks with SUSU*
+- *TASK: Confirm break catering*
+- *TASK: Confirm meal catering*
+- *TASK: Book breaks with SUSU*
 
 #### Call for Volunteers
 
@@ -134,11 +134,11 @@ The game for the event should be designed and agreed upon as early as possible i
 
 When designing the game, it is worth reading the [Game Design Desiderata](/events/smallpeice/game-design)
 
-- *Open game idea submissions*
-- *Hold discussion meeting*
-- *Submit final idea*
-- *Finalise Rules into formal document*
-- *Prepare information for Rules Q&A*
+- *TASK: Open game idea submissions*
+- *TASK: Hold discussion meeting*
+- *TASK: Submit final idea*
+- *TASK: Finalise Rules into formal document*
+- *TASK: Prepare information for Rules Q&A*
 
 #### Prepare Student Packs
 
@@ -146,12 +146,12 @@ When designing the game, it is worth reading the [Game Design Desiderata](/event
 
 At the introductory talk each student is given a pack. These bags include printouts of the rules and a map of campus, and prospectuses.
 
-- *Print Rules*
-- *Pack promotional items e.g pens*
-- *Acquire bags*
-- *Print maps of campus* (mark key areas?)
-- *Acquire Prospectuses*
-- *Pack the student packs*
+- *TASK: Print Rules*
+- *TASK: Pack promotional items e.g pens*
+- *TASK: Acquire bags*
+- *TASK: Print maps of campus* (mark key areas?)
+- *TASK: Acquire Prospectuses*
+- *TASK: Pack the student packs*
 
 #### Risk Assessments
 
@@ -163,7 +163,7 @@ Past risk assessments can be found [here](https://github.com/roboticsoutreach/ri
 
 In SP2019, the risk assessments were handled by ECS, working with us to ensure that any risks from the activities were covered.
 
-- *Create Risk Assessment*
+- *TASK: Create Risk Assessment*
 
 #### Student Information Packs
 
@@ -177,7 +177,7 @@ About a month before the event Smallpeice send out the event information and sev
 
 This is mostly handled by ECS.
 
-- *Book car parking for parents for finals*
+- *TASK: Book car parking for parents for finals*
 
 #### Confirmations with Smallpeice
 
@@ -246,7 +246,7 @@ Smallpeice will briefly welcome the students and talk to them after safeguarding
 
 General Outreach / selling of the university.
 
-- *Confirm presenter for ECS Welcome Talk*
+- *TASK: Confirm presenter for ECS Welcome Talk*
 
 ##### How to build your robot
 
@@ -260,8 +260,8 @@ Usually a video to show them what the robots are like. This has historically bee
 
 A demo robot can optionally be used.
 
-- *Prepare Robot Building Presentation*
-- *Prepare Demo Robot*
+- *TASK: Prepare Robot Building Presentation*
+- *TASK: Prepare Demo Robot*
 
 ### Mid-week
 
@@ -271,8 +271,8 @@ The content in this section is free to move around, as the schedule sees fit.
 
 The students attend three academic talks on topics relevant to the course. Each lecture should be an hour long and is usually given by a lecturer within ECS.
 
-- *Find lecturers for three lectures.*
-- *Ensure rooms are booked for lectures*
+- *TASK: Find lecturers for three lectures.*
+- *TASK: Ensure rooms are booked for lectures*
 
 #### Tours
 
@@ -289,7 +289,7 @@ The students will be split into several groups and visit the facilities on a rot
 
 In SP2019, the tours were handled by ECS.
 
-- *Arrange tours*
+- *TASK: Arrange tours*
 
 #### Labs
 
@@ -301,9 +301,9 @@ The purpose of this workshop is for students to plan their mechanisms and robot 
 
 By the end of this lab, students should have marked their base on a piece of plywood, to be sent to the ECS mechanical workshop to be cut on Tuesday.
 
-- *Create / Obtain joint examples.*
-- *Write a worksheet for the mechanical lab*
-- *Organise wood to be cut with mechanical workshop*
+- *TASK: Create / Obtain joint examples.*
+- *TASK: Write a worksheet for the mechanical lab*
+- *TASK: Organise wood to be cut with mechanical workshop*
 
 ##### Python Lab
 
@@ -311,24 +311,24 @@ This lab teaches the basics of Python to students.
 
 It is optional as some students may have been taught Python already. It is worth confirming this with students, as the vast majority of them will need to participate.
 
-- *Ensure programming software is installed on computers*
+- *TASK: Ensure programming software is installed on computers*
 
 ##### Robot Programming Lab
 
 This lab teaches the subset of Python specific to our Robot API. It usually uses a simulator of some kind.
 
-- *Setup the Simulator for this years game.*
-- *Distribute simulator*
+- *TASK: Setup the Simulator for this years game.*
+- *TASK: Distribute simulator*
 
 ##### Electronics Workshop
 
 This workshop guides students through some basic principles of Electronics and building some sensors for use on their robotics.
 
-- *Update Electronics Workshop Activities*
-- *Purchase components for electronics workshop*
-- *Confirm with ECS Labs that we can use any required components.*
-- *Print Electronics Workshop Handouts.*
-- *Pack components for electronics workshop*
+- *TASK: Update Electronics Workshop Activities*
+- *TASK: Purchase components for electronics workshop*
+- *TASK: Confirm with ECS Labs that we can use any required components.*
+- *TASK: Print Electronics Workshop Handouts.*
+- *TASK: Pack components for electronics workshop*
 
 ### Wednesday
 
@@ -348,8 +348,8 @@ Notably, we ask a couple of the ECS academics responsible for admissions to come
 
 Students will present their robots during the meal in "lightning talks". They are not informed of the lightning talks until Thursday afternoon.
 
-- *Invite some ECS academics to the formal meal*
-- *Move robots to formal meal venue*
+- *TASK: Invite some ECS academics to the formal meal*
+- *TASK: Move robots to formal meal venue*
 
 ## The Competition
 
@@ -361,15 +361,15 @@ The arena is built in the Cube. There are not any other suitable locations on ca
 
 The Cube will need to be prepared for the competition, which will take the majority of the week.
 
-- *Arrange for Estates and Facilities to move arena parts to the Cube*
-- *Purchase arena construction materials*
-- *Hire any materials needed for the arena (Scaff / Truss)*
-- *Book Tables and Chairs from SUSU*
-- *Book tech from SUSU*
-- *Obtain screens for the arena.*
-- *Plan arena lighting*
-- *Print arena markers (if using vision)*
-- *Print signage for Cube*
+- *TASK: Arrange for Estates and Facilities to move arena parts to the Cube*
+- *TASK: Purchase arena construction materials*
+- *TASK: Hire any materials needed for the arena (Scaff / Truss)*
+- *TASK: Book Tables and Chairs from SUSU*
+- *TASK: Book tech from SUSU*
+- *TASK: Obtain screens for the arena.*
+- *TASK: Plan arena lighting*
+- *TASK: Print arena markers (if using vision)*
+- *TASK: Print signage for Cube*
 
 ### The Pits
 
@@ -381,9 +381,9 @@ There should also be an area for testing robots.
 
 Pit placement per team should account for any accessibility requirements of Teams Members and Mentors.
 
-- *Plan Team Pit Layout*
-- *Arrange for power distro to pits*
-- *Build Team Pits*
+- *TASK: Plan Team Pit Layout*
+- *TASK: Arrange for power distro to pits*
+- *TASK: Build Team Pits*
 
 The pits for Smallpeice have always been on Bar 2, although this was not enough room for SP2019.
 
@@ -397,13 +397,13 @@ Tinker Time is a period during which teams can test their robots in the arena.
 
 In the past, time allocations have been managed on a whiteboard. However, with a large number of teams, it is probably worth scheduling this in advance.
 
-- *Schedule Tinker Time*
+- *TASK: Schedule Tinker Time*
 
 ### Mini-League
 
 In SP2019, a mini-league was run instead of tinker time.
 
-- *Schedule the mini-league*
+- *TASK: Schedule the mini-league*
 
 ### Friday Break Closure
 
@@ -411,25 +411,25 @@ In the past, during the Friday morning break, the Cube is closed to students. Th
 
 House lights are turned off, and the arena lighting setup is turned on. The music is swapped to the epic playlist, starting on the preselected intro song.
 
-- *Plan competition intro sequence*
+- *TASK: Plan competition intro sequence*
 
 ### League
 
 The league is the vast majority of matches and scores and used to seed the knockouts.
 
-- *Prepare League schedule*
+- *TASK: Prepare League schedule*
 
 ### Knockouts
 
 The knockouts determine the winner of the competition.
 
-- *Prepare knockout schedule*
+- *TASK: Prepare knockout schedule*
 
 ## Closing Ceremony
 
 After the final match, the arena is cleared of any props to prepare for the closing ceremony.
 
-- *Plan closing ceremony*
+- *TASK: Plan closing ceremony*
 
 ### Photos
 
@@ -444,7 +444,7 @@ We need to work with Smallpeice at this point to ensure that media consent is ob
 
 Our Guest speaker (usually Head of ECS) will give a short speech about the university, and the students' achievements during the week.
 
-- *Arrange for guest speaker*
+- *TASK: Arrange for guest speaker*
 
 ### Prizegiving
 
@@ -460,16 +460,16 @@ The following prizes have been traditionally given:
   - It is usually the same prize as first place.
   - This is often the robot which volunteers believe should have won, but didn't.
 
-- *Purchase prizes*
-- *Design certificates*
-- *Design awards cards*
-- *Print certificates and awards cards*
+- *TASK: Purchase prizes*
+- *TASK: Design certificates*
+- *TASK: Design awards cards*
+- *TASK: Print certificates and awards cards*
 
 ## Pack Down
 
 This process involves getting out of SUSU before they shut, and begins immediately after the students have left. It often continues onto Saturday.
 
-- *Schedule packdown*
+- *TASK: Schedule packdown*
 
 ## Attributions
 
