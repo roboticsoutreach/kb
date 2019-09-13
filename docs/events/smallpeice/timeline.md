@@ -334,6 +334,8 @@ This workshop guides students through some basic principles of Electronics and b
 
 Students will stay late in the labs on Wednesday evening to work on their robots. This is essential to ensure that they have enough time.
 
+We usually introduce students to the Cube today, even if the arena is only partially built.
+
 ### Thursday
 
 #### Formal Meal
@@ -344,7 +346,130 @@ We should invite guests to the meal.
 
 Notably, we ask a couple of the ECS academics responsible for admissions to come and give a talk on the admissions process.
 
+Students will present their robots during the meal in "lightning talks". They are not informed of the lightning talks until Thursday afternoon.
+
 - *Invite some ECS academics to the formal meal*
+- *Move robots to formal meal venue*
+
+## The Competition
+
+The competition is the culmination of the week's activies as teams compete in our arena.
+
+### Arena Build
+
+The arena is built in the Cube. There are not any other suitable locations on campus.
+
+The Cube will need to be prepared for the competition, which will take the majority of the week.
+
+- *Arrange for Estates and Facilities to move arena parts to the Cube*
+- *Purchase arena construction materials*
+- *Hire any materials needed for the arena (Scaff / Truss)*
+- *Book Tables and Chairs from SUSU*
+- *Book tech from SUSU*
+- *Obtain screens for the arena.*
+- *Plan arena lighting*
+- *Print arena markers (if using vision)*
+- *Print signage for Cube*
+
+### The Pits
+
+Teams are each given a "pit" on Thursday and Friday when they are in the Cube.
+
+A "pit" is a table, with space for chairs, and some power.
+
+There should also be an area for testing robots.
+
+Pit placement per team should account for any accessibility requirements of Teams Members and Mentors.
+
+- *Plan Team Pit Layout*
+- *Arrange for power distro to pits*
+- *Build Team Pits*
+
+The pits for Smallpeice have always been on Bar 2, although this was not enough room for SP2019.
+
+### Competition Briefing
+
+The Head Judge will give a briefing in the Cube, explaining to teams how the league and knockouts will work.
+
+### Tinker Time
+
+Tinker Time is a period during which teams can test their robots in the arena.
+
+In the past, time allocations have been managed on a whiteboard. However, with a large number of teams, it is probably worth scheduling this in advance.
+
+- *Schedule Tinker Time*
+
+### Mini-League
+
+In SP2019, a mini-league was run instead of tinker time.
+
+- *Schedule the mini-league*
+
+### Friday Break Closure
+
+In the past, during the Friday morning break, the Cube is closed to students. This allows us to convert the arena into competition mode and any last minute tests to be run.
+
+House lights are turned off, and the arena lighting setup is turned on. The music is swapped to the epic playlist, starting on the preselected intro song.
+
+- *Plan competition intro sequence*
+
+### League
+
+The league is the vast majority of matches and scores and used to seed the knockouts.
+
+- *Prepare League schedule*
+
+### Knockouts
+
+The knockouts determine the winner of the competition.
+
+- *Prepare knockout schedule*
+
+## Closing Ceremony
+
+After the final match, the arena is cleared of any props to prepare for the closing ceremony.
+
+- *Plan closing ceremony*
+
+### Photos
+
+Commemorative photos are taken in the arena. The photographer usually stands on the Cube balcony.
+
+- Students
+- Students, Smallpeice and Volunteers
+
+We need to work with Smallpeice at this point to ensure that media consent is observed.
+
+### Guest Speaker
+
+Our Guest speaker (usually Head of ECS) will give a short speech about the university, and the students' achievements during the week.
+
+- *Arrange for guest speaker*
+
+### Prizegiving
+
+Prizes will be presented to students by the guest speaker. They should be laid out on a table upon the stage.
+
+The following prizes have been traditionally given:
+
+- First place
+- Second place
+- Third place
+- Facilitators Award
+  - We usually use a flowchart to determine this, such that no team wins two prizes.
+  - It is usually the same prize as first place.
+  - This is often the robot which volunteers believe should have won, but didn't.
+
+- *Purchase prizes*
+- *Design certificates*
+- *Design awards cards*
+- *Print certificates and awards cards*
+
+## Pack Down
+
+This process involves getting out of SUSU before they shut, and begins immediately after the students have left. It often continues onto Saturday.
+
+- *Schedule packdown*
 
 ## Attributions
 
