@@ -111,7 +111,7 @@ The following is the minimum data that we need:
 - Do they wish to help before the main event?
 - Parking?
 - T-shirt size
-    - Include No T-Shirt
+    - Include "No T-Shirt"
 - Dietary Requirements
 - Accomodation requirements
 - DBS Checked? (Not Required)
@@ -189,6 +189,162 @@ Around 1 - 2 weeks before the summer school, Smallpeice will contact us asking f
 - Volunteer numbers
 - Dietary Requirements
 - Accomodation numbers and dates
+
+## The Week
+
+This section documents how we have historically run the week, and what needs to be arranged for it.
+
+### Weekend Before
+
+Volunteers will arrive from Saturday onwards. Accomodation should have been arranged for them as necessary.
+
+### Monday
+
+#### Student Arrival
+
+Students will be dropped off at halls. This is organised by Smallpeice, but we usually send a couple of volunteers to greet them and take them to the venue for the introductory talk.
+
+#### Volunteer Briefing
+
+Before the students arrive, there should be a volunteer briefing, usually in the same room as the introductory talk, just earlier.
+
+This should include:
+
+- Introduce everyone. Names, pronouns.
+- Safeguarding information
+- The Schedule
+- Communications Channels
+- Who to talk to for:
+    - Arena Decisions
+    - Event Decisions
+    - Lab Decisions
+    - Tech Help
+    - Welfare / Safeguarding issues
+    - Any other points of contact.
+
+#### Student Introductory Talk
+
+This is the first activity of the week. It involves several speakers.
+
+Volunteers not needed elsewhere should be present for this. This is especially important for new volunteers so that they can understand how the week works.
+
+##### Housekeeping
+
+**ECS Coordinator - 5 minutes**
+
+A brief welcome to the university, fire information, etc.
+
+##### Smallpeice Welcome
+
+**Smallpeice Course Coordinator - 15 minutes**
+
+Smallpeice will briefly welcome the students and talk to them after safeguarding and expectations.
+
+##### ECS Welcome
+
+**Senior ECS Academic - 15 minutes**
+
+General Outreach / selling of the university.
+
+- *Confirm presenter for ECS Welcome Talk*
+
+##### How to build your robot
+
+**SourceBots volunteer - 30-60 minutes**
+
+Introduction to the game and rules, how the week works from our perspective. May also include the next section.
+
+Common pitfalls, and a brief introduction to the kit are mentioned here. The students should receive a link to the kit docs also.
+
+Usually a video to show them what the robots are like. This has historically been the [SR 2013 TieBreaker](https://www.youtube.com/watch?v=kHsveBZvQL8).
+
+A demo robot can optionally be used.
+
+- *Prepare Robot Building Presentation*
+- *Prepare Demo Robot*
+
+### Mid-week
+
+The content in this section is free to move around, as the schedule sees fit.
+
+#### Lectures
+
+The students attend three academic talks on topics relevant to the course. Each lecture should be an hour long and is usually given by a lecturer within ECS.
+
+- *Find lecturers for three lectures.*
+- *Ensure rooms are booked for lectures*
+
+#### Tours
+
+The students are given tours of some University facilities.
+
+In the past, we have visited 3 of the following:
+
+- Tony Davis High Voltage Lab
+- Nanofabrication Clean Rooms
+- Boldrewood Towing Tank
+- UAV Lab
+
+The students will be split into several groups and visit the facilities on a rota. The walking time between Highfield and Boldrewood needs to be considered in the schedule.
+
+In SP2019, the tours were handled by ECS.
+
+- *Arrange tours*
+
+#### Labs
+
+We run 4 labs throughout the week. The order is not specific, but it is recommended to put the mechanical lab first.
+
+##### Mechanics Lab
+
+The purpose of this workshop is for students to plan their mechanisms and robot structure.
+
+By the end of this lab, students should have marked their base on a piece of plywood, to be sent to the ECS mechanical workshop to be cut on Tuesday.
+
+- *Create / Obtain joint examples.*
+- *Write a worksheet for the mechanical lab*
+- *Organise wood to be cut with mechanical workshop*
+
+##### Python Lab
+
+This lab teaches the basics of Python to students.
+
+It is optional as some students may have been taught Python already. It is worth confirming this with students, as the vast majority of them will need to participate.
+
+- *Ensure programming software is installed on computers*
+
+##### Robot Programming Lab
+
+This lab teaches the subset of Python specific to our Robot API. It usually uses a simulator of some kind.
+
+- *Setup the Simulator for this years game.*
+- *Distribute simulator*
+
+##### Electronics Workshop
+
+This workshop guides students through some basic principles of Electronics and building some sensors for use on their robotics.
+
+- *Update Electronics Workshop Activities*
+- *Purchase components for electronics workshop*
+- *Confirm with ECS Labs that we can use any required components.*
+- *Print Electronics Workshop Handouts.*
+- *Pack components for electronics workshop*
+
+### Wednesday
+
+Students will stay late in the labs on Wednesday evening to work on their robots. This is essential to ensure that they have enough time.
+
+### Thursday
+
+#### Formal Meal
+
+On Thursday, Smallpeice hold a formal meal.
+
+We should invite guests to the meal.
+
+Notably, we ask a couple of the ECS academics responsible for admissions to come and give a talk on the admissions process.
+
+- *Invite some ECS academics to the formal meal*
 
 ## Attributions
 
