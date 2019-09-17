@@ -471,6 +471,15 @@ This process involves getting out of SUSU before they shut, and begins immediate
 
 - *TASK: Schedule packdown*
 
+## Post-event
+
+Claiming renumeration varies each year. It should kick off immediately after (the monday after) the event finishes. for the last 2 years the process has been the following:
+1. *TASK: Confirm Smallpeice is happy with paying for N volunteers worth of time.*
+2. *TASK: Ask smallpeice guy for the claims form and distribute it along with a Google form for bank account details for repayment*
+3. Wait 2 weeks whilst collecting everyone's forms
+4. *TASK: 3 days before deadline, prod those who haven't sent their form.*
+5. *TASK: after the deadline, send the forms and details to the Smallpeice guy to cause the payments.*
+
 ## Attributions
 
 This page was written based of the work of [T Ward](https://github.com/sourcebots/smallpeice-runbook), but moved here to make it more accessible. A [compiled version of his work](/events/smallpeice/docs/runbook2018.pdf) is available. Additional information has since been added to supplement this work.
