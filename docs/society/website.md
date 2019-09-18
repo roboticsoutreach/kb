@@ -1,10 +1,25 @@
 # Website
 
-The website can be found at `roboticsoutreach.org`.
+The website can be found at [`roboticsoutreach.org`](https://roboticsoutreach.org).
 
 ## Logging In
 
 You can log in to the Admin Panel at [roboticsoutreach.org/admin](https://roboticsoutreach.org/admin). Registration is disabled, so please ask a committee member to create an account for you.
+
+## Shortlinks
+
+Shortlinks can be created by logging into the Admin Panel -> Configuration -> Site.
+
+They can then be added under the `Custom Redirects` section.
+
+### Common Shortlinks
+
+- [Slack](https://roboticsoutreach.org/slack)
+- [Facebook Page](https://roboticsoutreach.org/fb)
+- [Facebook Group](https://roboticsoutreach.org/group)
+- [Mailing List](https://roboticsoutreach.org/email)
+- [GitHub](https://roboticsoutreach.org/github)i
+- [SUSU Page](https://www.susu.org/groups/student-robotics-southampton)
 
 ## Technical Details
 
