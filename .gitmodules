@@ -1,0 +1,3 @@
+[submodule "docs/society/minutes"]
+	path = docs/society/minutes
+	url = https://github.com/roboticsoutreach/minutes.git
