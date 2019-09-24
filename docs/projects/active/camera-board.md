@@ -4,7 +4,7 @@ title: Camera Board
 
 The Camera Board is a project that aims to find a hardware replacement for webcams.
 
-The current Webcams have a slow shutter speed and the image quality is not great, this means that thr robots cannot take images while moving, and can lead to some big issues if the lighting is not right.
+The current Webcams have a slow shutter speed and the image quality is not great, this means that the robots cannot take images while moving, and can lead to some big issues if the lighting is not right.
 
 Using Raspberry pi camera's we can improve the shutter speed, which will hopefully allow for image processing on the move. We can also have a compute module 3 which deals with all of the image processing so that the robot "brain" doesn't have to. It will also allow for 2 cameras, one which can either be attached to the board directly or over a HDMI cable, and the other will be just over HDMI. This will allow for taking images in different directions, or having a forward facing camera and a turning camera, or could be used for stereo vision.
 
