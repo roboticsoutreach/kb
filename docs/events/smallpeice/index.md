@@ -12,11 +12,3 @@ SRO has a number of responsibilities during the event, including:
 - Producing material (usually in the form of lab sessions) which will teach teams the skills that they need to be successful in the competition.
 
 The aim is to have teams leave the competition having had fun, but also having developed skills that will help them pursue degrees and careers in STEM fields.
-
-## Course Feedback Archive
-
-| Year | PDF                           | Excel                           |
-|------|-------------------------------|---------------------------------|
-| 2017 | [2017.pdf](feedback/2017.pdf) | [2017.xlsx](feedback/2017.xlsx) |
-| 2018 | [2018.pdf](feedback/2018.pdf) | [2018.xlsx](feedback/2018.xlsx) |
-| 2019 | [2019.pdf](feedback/2019.pdf) | [2019.xlsx](feedback/2019.xlsx) |
