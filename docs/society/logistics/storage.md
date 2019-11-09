@@ -32,7 +32,7 @@ Location: [Building 53][b53] Level 4, Seating Area
 
 ![Lobby Cupboards](/img/society/logistics/storage/lobby.jpg)
 
-## Access
+### Access
 
 The keys for these cupboards are usually stored in "The Hold".
 
@@ -44,7 +44,7 @@ Location: [Building 53][b53] Level 4, R4025 Seminar Room
 
 ![Broom Cupboard](/img/society/logistics/storage/broom.jpg)
 
-## Access
+### Access
 
 These cupboards are usually unlocked.
 
