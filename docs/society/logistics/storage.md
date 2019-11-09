@@ -12,7 +12,7 @@ Location: [Building 32][b32] Level 3, R3093 Airport Lounge North
 
 ![The Hold](/img/society/logistics/storage/hold.jpg)
 
-There are three cupboards in this location. We have the two to the right-hand side.
+There are three cupboards in this location. We have the two on the right-hand side.
 
 ### Access
 
