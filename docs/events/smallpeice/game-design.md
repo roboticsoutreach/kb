@@ -43,18 +43,18 @@ To go into more detail:
     can arrive at the following table for how many points robots should be
     scoring to achieve some level of ties:
 
-    N. robots per game / % of games with ties / Mean score / Median score
-
-    2 robots / 50% ties / 0.5 / 1
-    2 robots / 20% ties / 2.0 / 2
-    2 robots / 10% ties / 4.5 / 4
-    2 robots / 5% ties / 9.5 / 7
-    2 robots / 1% ties / 49.5 / 35
-    4 robots / 50% ties / 4.1 / 4
-    4 robots / 20% ties / 13.2 / 10
-    4 robots / 10% ties / 28.2 / 20
-    4 robots / 5% ties / 58.2 / 41
-    4 robots / 1% ties / 298.2 / 208
+    | N. robots per game | % of games with ties | Mean score | Median score |
+    | --- | --- | --- | --- |
+    | 2 robots | 50% ties | 0.5 | 1 |
+    | 2 robots | 20% ties | 2.0 | 2 |
+    | 2 robots | 10% ties | 4.5 | 4 |
+    | 2 robots | 5% ties | 9.5 | 7 |
+    | 2 robots | 1% ties | 49.5 | 35 |
+    | 4 robots | 50% ties | 4.1 | 4 |
+    | 4 robots | 20% ties | 13.2 | 10 |
+    | 4 robots | 10% ties | 28.2 | 20 |
+    | 4 robots | 5% ties | 58.2 | 41 |
+    | 4 robots | 1% ties | 298.2 | 208 |
 
     A corollary to this condition is that the game needs to have a low
     barrier to entry. In other words, from a cardboard box and some
