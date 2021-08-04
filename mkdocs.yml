@@ -11,8 +11,9 @@ theme:
   logo: 'img/sro_logo_arm.svg'
   favicon: 'img/favicon.ico'
   language: 'en'
-  feature:
-    tabs: true
+  features:
+    - navigation.tabs
+    - navigation.instant
   palette:
     primary: 'light blue'
     accent: 'light blue'
@@ -22,11 +23,11 @@ theme:
 extra:
   manifest: 'app.manifest'  
   social:
-    - type: github
+    - icon: fontawesome/brands/github-alt
       link: 'https://github.com/roboticsoutreach'
-    - type: facebook-square
+    - icon: fontawesome/brands/facebook-square
       link: 'https://facebook.com/SROSoton'
-    - type: slack
+    - type: fontawesome/brands/slack
       link: 'https://roboticsoutreach.slack.com'
   
 copyright: 'Copyright &copy; Southampton Robotics Outreach.'
