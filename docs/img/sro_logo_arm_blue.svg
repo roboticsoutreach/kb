@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="97.350006"
+   width="106.634225"
+   version="1.1"
+   viewBox="0 0 106.634225 97.350009"
+   data-name="Layer 1"
+   id="Layer_1">
+  <metadata
+     id="metadata126">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SRO LOGO</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs95">
+    <style
+       id="style88">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:#fff;}</style>
+    <linearGradient id="linear-gradient" x1="16" y1="-27.23" x2="90.63" y2="124.2" gradientUnits="userSpaceOnUse">
+       <stop offset="0" stop-color="#3d8fee" />
+       <stop offset="1" stop-color="#45d3ff" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title97">SRO LOGO</title>
+  <rect class="cls-1" width="106.634225" height="97.350006" rx="10" />
+  <g transform="translate(-3.209999,-12.639999)"
+     id="g147">
+    <g
+       id="g136">
+      <rect
+         style="fill:#ffffff"
+         id="rect107"
+         height="11.09"
+         width="58.560001"
+         y="83.900002"
+         x="18.209999"
+         class="cls-2" />
+      <path
+         style="fill:#ffffff"
+         id="path109"
+         transform="translate(0.24,0.17)"
+         d="m 86.65,48.35 c -8,-0.25 -10.56,-0.07 -15,-0.9 l -0.27,2 h -2 c 0.29,4.46 -0.19,7 -0.91,14.95 3.07,5.22 10.83,10.08 11.82,9.29 l 1.78,-2.37 c -4,-3 -6.55,-5 -9.38,-9.39 0.27,-5.46 0.39,-7.63 0.59,-10.39 2.77,0.13 4.94,0.27 10.39,0.66 4,3.34 5.72,6.09 8.24,10.4 l 2.56,-1.47 C 95.39,60.28 91.45,52 86.65,48.35 Z"
+         class="cls-2" />
+      <circle
+         style="fill:#ffffff"
+         id="circle111"
+         r="7.5700002"
+         cy="50.349998"
+         cx="70.970001"
+         class="cls-2" />
+      <circle
+         style="fill:#ffffff"
+         id="circle113"
+         r="7.5700002"
+         cy="35.209999"
+         cx="39.91"
+         class="cls-2" />
+      <rect
+         style="fill:#ffffff"
+         id="rect115"
+         transform="rotate(-62.4,52.873711,41.071297)"
+         height="40.68"
+         width="8"
+         y="20.84"
+         x="48.610001"
+         class="cls-2" />
+      <rect
+         style="fill:#ffffff"
+         id="rect117"
+         transform="rotate(27.6,31.864983,48.357588)"
+         height="24.23"
+         width="8.6400003"
+         y="35.66"
+         x="27.780001"
+         class="cls-2" />
+      <circle
+         style="fill:#ffffff"
+         id="circle119"
+         r="7.5700002"
+         cy="60.799999"
+         cx="26.129999"
+         class="cls-2" />
+      <rect
+         style="fill:#ffffff"
+         id="rect121"
+         transform="rotate(-39.81,37.654445,74.158257)"
+         height="38.119999"
+         width="14.84"
+         y="55.349998"
+         x="29.870001"
+         class="cls-2" />
+    </g>
+  </g>
+</svg>
