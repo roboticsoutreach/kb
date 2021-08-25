@@ -4,9 +4,10 @@ Communication is important to us to ensure that all members are informed.
 
 ## Social Media
 
-We have a [Facebook Page][fb-page], [Facebook Group][fb-group] and [GitHub Organisation][gh].
+We have a [Facebook Page][fb-page], [Twitter page][twitter-page], [Facebook Group][fb-group] and [GitHub Organisation][gh].
 
 [fb-page]: https://facebook.com/SROSoton
+[twitter-page]: https://twitter.com/robotoutreach
 [fb-group]: https://www.facebook.com/groups/126854750821510/
 [gh]: https://github.com/roboticsoutreach
 
