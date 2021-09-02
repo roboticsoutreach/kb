@@ -8,9 +8,9 @@ The Rub-bots are a set of physical robots constructed in July/August
 The design was intended to be robust so the robots would last long enough to be used for many future events, as demo-bots and to be offered to participants for outreach events.
 
 The bots have:
- - 2 wheel differential drive
- - a servo-driven linear gripper
- - a forward-facing ultrasound distance sensor
+- 2 wheel differential drive
+- a servo-driven linear gripper
+- a forward-facing ultrasound distance sensor
 
 
 
