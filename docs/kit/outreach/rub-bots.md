@@ -41,6 +41,14 @@ The gripper is connected to its servo via 'lightweight inextensible strings' (at
     3. Pass through **both** grippers without tying to either
     4. Hook round the other idler
     5. Tie off on the servo
+    TODO image
+ - String 4:
+    1. Tie onto gripper 2, heading the other way
+    2. Hook round the near idler
+    3. Go through both grippers
+    4. Hook round other idler
+    5. Tie off on servo
+    TODO image
 
 
 The servo is powered from the secondary '5V' output of the power board. The power board is rated to supply enough current for one servo, so a separate servo board isn't needed.
