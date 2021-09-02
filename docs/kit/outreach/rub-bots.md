@@ -3,7 +3,7 @@ title: Rub-bots
 ---
 
 The Rub-bots are a set of physical robots constructed in July/August
-2021 to facilitate [Smallpeice2021](TODO link). For that competition, they were called the 'Forklift-bots' to keep with the theme of the game. After that, they became the 'rub-bots' - named to reflect the fact that they were designed to perfectly fit inside the 35L Really Useful Boxes ('RUBs')
+2021 to facilitate [Smallpeice 2021](/docs/events/history/2021.md). For that competition, they were called the 'Forklift-bots' to keep with the theme of the game. After that, they became the 'rub-bots' - named to reflect the fact that they were designed to perfectly fit inside the 35L Really Useful Boxes ('RUBs')
 
 The design was intended to be robust so the robots would last long enough to be used for many future events, as demo-bots and to be offered to participants for outreach events.
 
