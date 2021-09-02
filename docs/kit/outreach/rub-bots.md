@@ -3,7 +3,7 @@ title: Rub-bots
 ---
 
 The Rub-bots are a set of physical robots constructed in July/August
-2021 to facilitate [Smallpeice 2021](/docs/events/history/2021.md). For that competition, they were called the 'Forklift-bots' to keep with the theme of the game. After that, they became the 'rub-bots' - named to reflect the fact that they were designed to perfectly fit inside the 35L Really Useful Boxes ('RUBs')
+2021 to facilitate [Smallpeice 2021](/docs/events/history/2021). For that competition, they were called the 'Forklift-bots' to keep with the theme of the game. After that, they became the 'rub-bots' - named to reflect the fact that they were designed to perfectly fit inside the 35L Really Useful Boxes ('RUBs')
 
 The design was intended to be robust so the robots would last long enough to be used for many future events, as demo-bots and to be offered to participants for outreach events.
 
@@ -55,7 +55,7 @@ The gripper is connected to its servo via 'lightweight inextensible strings' (at
     4. Hook round other idler
     5. Tension the strings and tie off on servo
     ![Diagram of String 4](/img/kit/rub-bots/rub-bot_string_4.png)
-    
+
     This string pulls gripper 2 closed, synchronised with gripper 1 closing
 
 
