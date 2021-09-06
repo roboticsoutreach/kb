@@ -63,7 +63,7 @@ The objectives of the Group, ‘the Objects’, are:
 
 5.  The Committee must keep a register of members (‘the register’) on
     the Student Groups Hub provided by the Students’ Union at
-    [www.susu.org](www.susu.org).
+    [www.susu.org](https://www.susu.org).
 
 6.  The Committee may only refuse an application for Membership if,
     acting reasonably and properly, they consider it to be in the best
@@ -305,7 +305,7 @@ The objectives of the Group, ‘the Objects’, are:
 
 4.  The Committee must update their committee information on the Student
     Groups Hub provided by the Students’ Union at
-    [www.susu.org](www.susu.org) (or failing that inform the Students’
+    [www.susu.org](https://www.susu.org) (or failing that inform the Students’
     Union’s Student Groups Officer) within seven days.
 
 5.  A retiring member of the Committee must transfer all relevant
