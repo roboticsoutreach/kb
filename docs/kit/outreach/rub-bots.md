@@ -13,6 +13,33 @@ The bots have:
 - a servo-driven linear gripper
 - a forward-facing ultrasound distance sensor
 
+## Chassis
+
+The chassis is made of plywood, cut on a band saw and screwed together as follows. All screw joints should be pilot drilled.
+
+1. Add forearm parts with 4 screws
+![Diagram of step 1](/img/kit/rub-bots/assembly_1.png)
+2. Drill undersized holes for 8mm linear rods (approx 7.5mm)
+![Diagram of step 2](/img/kit/rub-bots/assembly_2.png)
+3. Mount the servo and motors
+![Diagram of step 3](/img/kit/rub-bots/assembly_3.png)
+4. Drill clearance holes for the casters, adding a skate bearing with 3D printed pulley on each bolt. Put a washer between the chassis and the skate bearing
+![Diagram of step 4](/img/kit/rub-bots/assembly_4.png)
+5. Press the LM8UU bearings into the gripper arms, and slide them onto the rods
+![Diagram of step 5](/img/kit/rub-bots/assembly_5.png)
+6. Add riser blocks to each corner
+![Diagram of step 6](/img/kit/rub-bots/assembly_6.png)
+7. Add the upper plywood support
+![Diagram of step 7](/img/kit/rub-bots/assembly_7.png)
+8. Add the servo horn to the servo, and the LiPo holder to the back of the robot
+![Diagram of step 8](/img/kit/rub-bots/assembly_8.png)
+9. Add the electronics kit on top. Optionally add sensors (ultrasound, vision, ...)
+![Diagram of step 9](/img/kit/rub-bots/assembly_9.png)
+10. String up the servo mechanism. This is explained in depth further down this page
+11. Celebrate by programming the robot and watching it drive itself around
+
+
+
 ## Servo mechanism
 
 The gripper is connected to its servo via 'lightweight inextensible strings' (at least in theory). They're actually lengths of Nylon fishing line, which does stretch quite a bit. The complicated bit is connecting the grippers to the servo such that both grippers are pulled open and pulled closed symmetrically, as below:
