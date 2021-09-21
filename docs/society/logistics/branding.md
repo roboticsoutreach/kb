@@ -20,7 +20,7 @@ When there is not enough space to use the official logo, the robot arm can be us
 
 ## Colours
 
-- Main colour: `#40A9F4`  
+- Main colour: `#02A6F2`  
 - Light variant: `#45d3ff`  
 - Dark variant: `#3d8fee`  
 - Heading text colour: `#757575`  
