@@ -7,8 +7,7 @@ authors = ["Dan Trickey <dan@trickey.io>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 mkdocs = "^1.0"
-mkdocs-material = "^7.2"
-
+mkdocs-material = "^8.0"
 [tool.poetry.dev-dependencies]
 
 [build-system]
