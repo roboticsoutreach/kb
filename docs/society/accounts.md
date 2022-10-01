@@ -8,8 +8,8 @@ It needs to be renewed on an annual basis.
 
 ### Current Holders
 
-Primary: Dan Trickey
-Secondary: Dan Hobson
+Primary: Tommy Poll
+Secondary: Stefan Merlas
 
 ## Gmail
 

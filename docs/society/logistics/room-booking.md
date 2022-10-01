@@ -2,11 +2,13 @@
 
 ## CLS Rooms
 
-CLS Rooms can be booked through the university booking system on [SUSSED](https://sussed.soton.ac.uk). Note that we can no longer book rooms after 6pm through this. It is currently not known how to book them out of hours.  Suggestion is to contact a staff member.
+CLS Rooms can be booked through the [university booking system](https://roombooking.soton.ac.uk). You can book up to 12 weeks in one booking.
+
+Our usual room is B32/3077 - the seminar room closest to the Hold.
 
 ## B53/4025
 
-The Mountbatten L4 Seminar Room is one of our usual locations.
+The Mountbatten L4 Seminar Room is sometimes used as a prep/setup room during Smallpeice.
 
 It is bookable by contacting the Faculty Administrator via email.
 
