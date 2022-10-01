@@ -29,8 +29,10 @@ extra:
       link: https://facebook.com/SROSoton
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/robotoutreach
-    - icon: fontawesome/brands/slack
-      link: https://roboticsoutreach.slack.com
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/roboticsoutreach/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/hfjQ3kqwXc
   
 copyright: 'Copyright &copy; Southampton Robotics Outreach.'
 
