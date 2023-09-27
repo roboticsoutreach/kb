@@ -9,10 +9,11 @@ It needs to be renewed on an annual basis.
 ### Current Holders
 
 Primary: Tommy Poll
-Secondary: Stefan Merlas
+Secondary: Alex Colville
 
 ## Gmail
 
 There is a generic email account `screwthulu@gmail.com`.
+It owns the `roboticsoutreach.org` domain.
 
 It should not be used to send emails.
