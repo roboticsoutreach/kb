@@ -2,7 +2,7 @@
 
 ## Weekly Meetings
 
-Meetings are typically held weekly at 18:00 on Monday, with a reminder being sent to members on the mailing list beforehand. Each meeting starts with review of the week, including progress made towards any ongoing projects and any events held during the week. The remainder of the meeting is used to complete any tasks that would be suitable for finishing during the meeting. Most meetings will last around 2 hours, however, sometimes a longer meeting is necessary to finish urgent tasks. Minutes should be taken by the secretary and uploaded to [GitHub](https://github.com/s-r-o/minutes).
+Meetings are typically held weekly at 18:00 on Wednesday, with a reminder being sent to members on the mailing list beforehand. Each meeting starts with review of the week, including progress made towards any ongoing projects and any events held during the week. The remainder of the meeting is used to complete any tasks that would be suitable for finishing during the meeting. Most meetings will last around 2 hours, however, sometimes a longer meeting is necessary to finish urgent tasks. Minutes should be taken by the secretary and uploaded to [GitHub](https://github.com/roboticsoutreach/minutes).
 
 ## General Meetings
 
@@ -14,4 +14,4 @@ An EGM can be called for by either members of the society or the committee in or
 
 An AGM is held each year to elect new committee members (see [The Committee](/society/committee/)). Any full member of the society may stand for election. Candidates for the committee should make themselves known in advance of the election, however, they may withdraw at any time.
 
-Votes should be cast anonymously using ballot papers based upon the [LaTex template](https://github.com/s-r-o/ballot-papers). All full members of the society may vote in elections. Any member may also request a recount of votes. These meetings are required to be held at least every 15 months in accordance with the constitution.
+Votes should be cast anonymously using ballot papers based upon the [LaTex template](https://github.com/roboticsoutreach/ballot-papers). All full members of the society may vote in elections. Any member may also request a recount of votes. These meetings are required to be held at least every 15 months in accordance with the constitution.
