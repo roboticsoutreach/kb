@@ -6,6 +6,7 @@ The Smallpeice kit is the most complicated of all our robot kit. It's similar to
 Every team at Smallpeice receives an 18L RUB containing the following equipment:
 
 - 1 x Raspberry Pi 3 Model B/B+ with a [Pi Power HAT](https://github.com/sourcebots/Pi-Powerboard-hw)
+- 1 x USB Memory Stick
 - 1 x [Tool Kit](tools)
 - 1 x [SR v4 Power Board](power-board)
 - 1 x [SR v4 Motor Board](motor-board)
