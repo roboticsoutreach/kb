@@ -29,19 +29,14 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Install Poetry
-        run: pipx install poetry
       - name: Setup Python
         uses: actions/setup-python@v5.1.0
         with:
-          python-version: 3.12
-          cache: poetry
+          python-version: ^3.7
       - name: Install Dependencies
-        run: |
-          poetry config virtualenvs.in-project true
-          poetry install -v
+        run: pip install -r requirements.txt
       - name: Build with MkDocs
-        run: mkdocs build -d ./_site
+        run: poetry run mkdocs build -d ./_site
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
 
