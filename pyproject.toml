@@ -2,7 +2,7 @@
 name = "kb"
 version = "0.1.0"
 description = ""
-authors = ["Dan Trickey <dan@trickey.io>"]
+authors = ["Southampton Robotics Outreach <sro@soton.ac.uk>", "Dan Trickey <dan@trickey.io>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
