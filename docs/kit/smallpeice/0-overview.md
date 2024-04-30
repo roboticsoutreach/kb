@@ -68,3 +68,4 @@ Teams can help themselves to the following:
 - PVC Pipe
 - Pipe Fittings
 - Pipe Lagging
+- Velcro

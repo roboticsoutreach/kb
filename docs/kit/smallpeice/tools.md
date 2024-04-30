@@ -17,3 +17,4 @@ Toolkits are stored in black [A4 folding cases](https://www.rapidonline.com/rvfm
 - [5.5mm Nutdriver](https://www.rapidonline.com/wera-05028230001-395-kraftform-plus-nutdriver-5-5-125-54-7920)
 - [PH2 Phillips screwdriver](https://www.rapidonline.com/wera-05008720001-350ph-kraftform-plus-lasertip-screwdriver-phillips-ph2-100-54-6888)
 - [2mm Hex driver](https://www.rapidonline.com/wera-05022800001-352-kraftform-plus-screwdriver-ball-end-hex-2-0-100-54-7853)
+- [3mm Hex driver](https://www.amazon.co.uk/dp/B000XIWOOE)
