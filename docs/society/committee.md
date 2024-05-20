@@ -4,7 +4,7 @@ The SRO committee are responsible for running various aspects of the society.
 
 ## President
 
-The President shall oversee the organisation and management of the Group and the Committee as a whole; ensure the officers’ accountability to Members, the Committee, and the Students’ Union; and represent the Group to all external interests.
+The President shall oversee the organisation and management of the Group and the Committee as a whole; ensure the officers' accountability to Members, the Committee, and the Students' Union; and represent the Group to all external interests.
 
 ## Secretary
 
@@ -12,11 +12,11 @@ The Secretary shall oversee the administration of the Group, take minutes at Gen
 
 ## Treasurer
 
-The Treasurer shall oversee the financing of the Group, set the Group’s budget, oversee the acquisition of sponsorship for the Group and maintain the accounts of the Group.
+The Treasurer shall oversee the financing of the Group, set the Group's budget, oversee the acquisition of sponsorship for the Group and maintain the accounts of the Group.
 
-## Marketing Director
+## Marketing Officer
 
-The Marketing Director shall oversee the organisation of small outreach activities, the design, production, and distribution of promotional materials, promotion to prospective members, potential sponsors, and manage the society’s online presence.
+The Marketing Officer shall oversee the design, production, and distribution of promotional materials, promotion to prospective members, and manage the society’s online presence.
 
 ## Summer School Lead
 
@@ -28,7 +28,7 @@ The Second Summer School Lead is an optional committee position that isn’t nee
 
 ## Technical Officer
 
-Co-ordination of events and communication between Student Robotics, an external Charity no. 1163168 and the Group are handled as part of the role of Technical Officer. The Technical Officer shall be responsible for overseeing any kit development work the Group may carry out and is expected to work closely with the Kit Team Committee of Student Robotics.
+The Technical Officer shall be responsible for overseeing any kit development work the Group may carry out, and overseeing the maintenance of the Group’s technical infrastructure.
 
 ## Welfare Officer
 
