@@ -14,6 +14,9 @@ Secondary: Alex Colville
 ## Gmail
 
 There is a generic email account `screwthulu@gmail.com`.
-It owns the `roboticsoutreach.org` domain.
 
 It should not be used to send emails.
+
+## CloudFlare
+
+There is a CloudFlare account linked to the `sro@soton.ac.uk` email address. It owns some domains.
