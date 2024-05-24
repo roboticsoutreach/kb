@@ -8,4 +8,8 @@ The registrar is CloudFlare (under the `sro@soton.ac.uk` account). The DNS provi
 
 ## `sourcebots.co.uk`
 
-Currently we do not know who owns this domain or where it is registered. We think its Andy Barrett-Sprott.
+This domain is registered at Hover. The owner is Andy Barrett-Sprott. We're planning on asking him to transfer this to our CloudFlare account.
+
+## `robohack.co.uk`
+
+This domain is registered at CloudFlare, but not in the SRO account. DNS is also provided by CloudFlare. The registrant is Alex Colville but he intends to transfer this domain to the SRO CloudFlare account soon.
