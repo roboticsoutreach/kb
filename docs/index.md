@@ -2,6 +2,9 @@
 title: SRO Knowledgebase
 ---
 
+!!! warning "Legacy Knowledgebase"
+    We are working to move relevant content off this site to the [new knowledgebase](https://roboticsoutreach.org/kb), after which this site will be archived.
+
 Welcome to the SRO Knowledgebase, where you can (hopefully) find the answers to all of your problems.
 
 ## What is this?
